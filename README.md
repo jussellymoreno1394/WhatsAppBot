@@ -23,7 +23,7 @@ Bot that receives as a parameter a GitHub username and returns as response the m
 
 ---
 
-## Part 2: Twilight function 📝
+## Part 2: Twilio function 📝
 
 - We will create a function.
 
