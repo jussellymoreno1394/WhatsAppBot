@@ -72,6 +72,6 @@ Bot that receives as a parameter a GitHub username and returns as response the m
     
 ## The final result 🌈:
 
-<p align="center"><img width="320" alt="captura de pantalla 2019-03-07 a la s 12 21 37 p m" src="https://user-images.githubusercontent.com/32177779/53976914-f68a9600-40d5-11e9-8e9c-8c7ab86d82f0.png"></p>
-
 - Here we send the specific code of our **SandBox** and try sending a user of **GitHub**.
+
+<p align="center"><img width="320" alt="captura de pantalla 2019-03-07 a la s 12 21 37 p m" src="https://user-images.githubusercontent.com/32177779/53976914-f68a9600-40d5-11e9-8e9c-8c7ab86d82f0.png"></p>
