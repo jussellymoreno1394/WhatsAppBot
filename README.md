@@ -2,9 +2,7 @@
 
 ## Introduction:
 
-This is a bot created with the functions of Twilio with support for WhatsApp.
-
-You can consult this bot for any user of GitHub and he will return in response how many consecutive days Commits has made and which is the most active repository of that user.
+Bot that receives as a parameter a GitHub username and returns as response the most active repository of that user and also how many days in  a row  has made a Commit.
 
 ## Tools to use 🛠:
 
