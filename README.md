@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-This bot allows us to make these queries easily and quickly through the WhatsApp platform by receiving a username from GitHub as a parameter and returning as response the most active repository of that user and also how many days in a row you have made a commit.
+This bot allows us to make  queries easily and quickly through the WhatsApp platform by receiving a username from GitHub as a parameter and returning as response the most active repository of that user and also how many days in a row the given user has made a commit.
 
 ## Tools to use 🛠:
 
