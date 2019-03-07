@@ -10,6 +10,8 @@ Bot that receives as a parameter a GitHub username and returns as response the m
 
 - Whatsapp
 
+
+---
 ## Part 1: Twilio 📌
 - Go to the [Twilio home page](https://www.twilio.com/) and access it.
 
@@ -19,6 +21,7 @@ Bot that receives as a parameter a GitHub username and returns as response the m
 
 - Give the project a name and believe it.
 
+---
 
 ## Part 2: Twilight function 📝
 
@@ -49,6 +52,7 @@ Bot that receives as a parameter a GitHub username and returns as response the m
 
 <p align="center"><img width="821" alt="captura de pantalla 2019-03-07 a la s 12 20 40 p m" src="https://user-images.githubusercontent.com/32177779/53976325-c8588680-40d4-11e9-8284-b3ad32cfd5d3.png"></p>
 
+---
 ## Parte 3: SMS Programable 📤
 - To make our bot work with WhatsApp we must go to **Programmable SMS**.
 
@@ -62,6 +66,7 @@ Bot that receives as a parameter a GitHub username and returns as response the m
 
 - Inside **Sandbox** you will have to paste the path of the function that you copied and saved before in the field called **WHEN A MESSAGE COMES IN**.
 
+---
 ## Part 4: WhatsApp 📨
 - To be able to use our bot in WhatsApp you must:
 
@@ -69,7 +74,8 @@ Bot that receives as a parameter a GitHub username and returns as response the m
   - You must send a message with the code.
   
     <p align="center"><img width="620" alt="captura de pantalla 2019-03-07 a la s 12 37 34 p m" src="https://user-images.githubusercontent.com/32177779/53976845-d3f87d00-40d5-11e9-96a9-fa47f49d4c38.png"></p>
-    
+ 
+ ---
 ## The final result 🌈:
 
 - Here we send the specific code of our **SandBox** and try sending a user of **GitHub**.
