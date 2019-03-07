@@ -43,7 +43,7 @@ Bot that receives as a parameter a GitHub username and returns as response the m
 <p align="center"><img width="751" alt="captura de pantalla 2019-03-07 a la s 12 20 19 p m" src="https://user-images.githubusercontent.com/32177779/53976242-a232e680-40d4-11e9-858f-03b8f1e8e0f2.png"></p>
 
 - Copy and save the PATH to use it later.
-- Being within our function, we will give life to our bot by adding the following code in the space called **Code**.
+- Being within our function, we will give life to our bot by adding the given code in **answeringWhatsApp.js** file, copy and paste it in the space called **Code**.
 - Save the function.
 - Now with our code in our Twilio function, we must add the dependencies, for this, go to the sub-tab of **Functions** called **Configure** and add **axios** and **moment** in the space called **Dependencies**.
 
