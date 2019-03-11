@@ -1,5 +1,7 @@
 # WhatsApp Bot 🤖
 
+
+
 ## Introduction:
 
 In this tutorial, we are going to use Twilio and WhatsApp to access a user's GitHub account. This bot will allow us to make queries easily and quickly through the WhatsApp platform by receiving a username from GitHub as a parameter and returning as the response the most active repository of that user as well as how many days in a row the given user has made a commit.
@@ -22,6 +24,7 @@ In this tutorial, we are going to use Twilio and WhatsApp to access a user's Git
 - Name the project and click create..
 
 ---
+
 
 ## Part 2: Twilio function 📝
 
@@ -54,6 +57,8 @@ Click on the **Create a Function** button.
 <p align="center"><img width="821" alt="captura de pantalla 2019-03-07 a la s 12 20 40 p m" src="https://user-images.githubusercontent.com/32177779/53976325-c8588680-40d4-11e9-8284-b3ad32cfd5d3.png"></p>
 
 ---
+
+
 ## Parte 3: SMS Programable 📤
 - To make our bot work with WhatsApp we must go to **Programmable SMS**.
 
@@ -68,13 +73,17 @@ Click on the **Create a Function** button.
 - Inside **Sandbox** you will have to paste the path of the function that you copied and saved before in the field called **WHEN A MESSAGE COMES IN**.
 
 ---
+
+
 ## Part 4: WhatsApp 📨
 - To be able to use our bot in WhatsApp you must:
 
   - Add this number **+1 415 523 8886** as a contact.
-  - Follow the steps inside the learn sub-tab inside of the **WhatsApp** tab to connect the sandbox with **WhatsApp**.
+  - Follow the steps inside the **Learn** sub-tab inside of the **WhatsApp** tab to connect the sandbox with **WhatsApp**.
   
   **Steps inside the Learn tab:**
+  
+  
   
   **Step 1:**
   
@@ -82,17 +91,23 @@ Click on the **Create a Function** button.
 
   - You must send a message with the code. i.e. join cream.
   
+  
+  
    **Step 2:**
    
 <p align="center"><img width="700" alt="Captura de pantalla 2019-03-11 a la(s) 1 11 57 p  m" src="https://user-images.githubusercontent.com/32177779/54147444-2bf9f100-4400-11e9-96cf-f5d200036c90.png"></p>
    
-   - You can skip this step.
+   - Here click on **Next: Two-Way Messaging**.
+   
+   
    
    **Step 3:**
    
   <p align="center"><img width="701" alt="Captura de pantalla 2019-03-11 a la(s) 1 12 19 p  m" src="https://user-images.githubusercontent.com/32177779/54147224-b8f07a80-43ff-11e9-8cd4-54e108254525.png"></p>
    
-   - In this part you could send the GitHub username as test and you will receive the answer that you are specting.
+   - In this part, you must send a message to the **Twilio number** saved before. Send the **GitHub** username for testing and you will receive the answer you are waiting for (How many days in a row the given user has made a Commit and his most active repository).
+   
+   
    
    **Step 4:**
    
@@ -102,6 +117,8 @@ Click on the **Create a Function** button.
   
   **Note:** Do not forget to follow the steps listed above, as this is to connect your sandbox with WhatsApp.
   After have done the configurations for the WhatsApp connection with our sandbox we can make use of the bot normally.
+  
+  
  ---
 ## The final result 🌈:
 
