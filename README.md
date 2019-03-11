@@ -4,7 +4,7 @@
 
 ## Introduction:
 
-In this tutorial, we are going to use Twilio and WhatsApp to access a user's GitHub account. This bot will allow us to make queries easily and quickly through the WhatsApp platform by receiving a username from GitHub as a parameter and returning as the response the most active repository of that user as well as how many days in a row the given user has made a commit.
+In this tutorial, we are going to use **Twilio** and **WhatsApp** to access a user's **GitHub** account. This bot will allow us to make queries easily and quickly through the **WhatsApp** platform by receiving a username from **GitHub** as a parameter and returning as the response the most active repository of that user as well as how many days in a row the given user has made a commit.
 
 ## Tools to use 🛠:
 
@@ -17,11 +17,11 @@ In this tutorial, we are going to use Twilio and WhatsApp to access a user's Git
 ## Part 1: Twilio 📌
 - Go to the [Twilio home page](https://www.twilio.com/) and access it.
 
-- If you do not have an account, you will need to create one in order to start the project..
+- If you do not have an account, you will need to create one in order to start the project.
 
 - Under **Products**, select **Programmable SMS**.
 
-- Name the project and click create..
+- Name the project and click create.
 
 ---
 
@@ -60,26 +60,26 @@ Click on the **Create a Function** button.
 
 
 ## Parte 3: SMS Programable 📤
-- To make our bot work with WhatsApp we must go to **Programmable SMS**.
+- To make our bot work with **WhatsApp** we must go to **Programmable SMS**.
 
 <p align="center"><img width="443" alt="captura de pantalla 2019-03-07 a la s 12 20 59 p m" src="https://user-images.githubusercontent.com/32177779/53976525-38670c80-40d5-11e9-819f-a37ae3931240.png"></p>
 
-- Being in **Programmable SMS**, we must go to the sub tab called **WhatsApp**.
+- Being in **Programmable SMS**, we must go to the sub-tab called **WhatsApp**.
 
 - Within the **WhatsApp** tab you will see a sub-tab called **Sandbox**, click on it.
 
 <p align="center"><img width="736" alt="captura de pantalla 2019-03-07 a la s 12 21 12 p m" src="https://user-images.githubusercontent.com/32177779/53976550-43ba3800-40d5-11e9-9577-8b0cbcf92bd9.png"></p>
 
-- Inside **Sandbox** you will have to paste the path of the function that you copied and saved before in the field called **WHEN A MESSAGE COMES IN**.
+- Inside **SandBox** you will have to paste the path of the function that you copied and saved before in the field called **WHEN A MESSAGE COMES IN**.
 
 ---
 
 
 ## Part 4: WhatsApp 📨
-- To be able to use our bot in WhatsApp you must:
+- To be able to use our bot in **WhatsApp** you must:
 
   - Add this number **+1 415 523 8886** as a contact.
-  - Follow the steps inside the **Learn** sub-tab inside of the **WhatsApp** tab to connect the sandbox with **WhatsApp**.
+  - Follow the steps inside the **Learn** sub-tab inside of the **WhatsApp** tab to connect the **SandBox** with **WhatsApp**.
   
   **Steps inside the Learn tab:**
   
@@ -115,8 +115,8 @@ Click on the **Create a Function** button.
  
   - You can skip this part because we added the function PATH in the **PART 3:Programmable SMS**.
   
-  **Note:** Do not forget to follow the steps listed above, as this is to connect your sandbox with WhatsApp.
-  After have done the configurations for the WhatsApp connection with our sandbox we can make use of the bot normally.
+  **Note:** Do not forget to follow the steps listed above, as this is to connect your **SandBox** with **WhatsApp**.
+  After have done the configurations for the **WhatsApp** connection with our **SandBox** we can make use of the bot normally.
   
   
  ---
