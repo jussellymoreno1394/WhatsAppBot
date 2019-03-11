@@ -47,9 +47,9 @@ Click on the **Create a Function** button.
 <p align="center"><img width="751" alt="captura de pantalla 2019-03-07 a la s 12 20 19 p m" src="https://user-images.githubusercontent.com/32177779/53976242-a232e680-40d4-11e9-858f-03b8f1e8e0f2.png"></p>
 
 - Copy and save the PATH to use it later.
-- Within our newly created function, we need to add the code in **answeringWhatsApp.js** file, copy and paste it in the space called **Code**.
+- Within our newly created function, we must add the function that is in **answeringWhatsApp.js** file, copy and paste it in the space called **Code**.
 - Save the function.
-- Now with our code in our Twilio function, we must add the dependencies, for this, go to the sub-tab of **Functions** called **Configure** and add **axios** and **moment** in the space called **Dependencies**.
+- Now with our code in our **Twilio function**, we must add the dependencies, for this, go to the sub-tab of **Functions** called **Configure** and add **axios** and **moment** in the space called **Dependencies**.
 
 <p align="center"><img width="821" alt="captura de pantalla 2019-03-07 a la s 12 20 40 p m" src="https://user-images.githubusercontent.com/32177779/53976325-c8588680-40d4-11e9-8284-b3ad32cfd5d3.png"></p>
 
